@@ -3,9 +3,9 @@
 
 This is a simple weather app that displays city name and current temperature based on a zipcode input.
 
-![Screenshot 1](https://github.com/jessicapham/simple-weather-app/demo1.png)
+![Screenshot 1](demo1.png)
 
-![Screenshot 2](https://github.com/jessicapham/simple-weather-app/demo2.png)
+![Screenshot 2](demo2.png)
 
 ### API
 OpenWeatherApp: See API docs here: https://openweathermap.org/current
